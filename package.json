@@ -1,0 +1,14 @@
+{
+  "name": "js3-timetracking-v1",
+  "version": "1.0.0",
+  "description": "Time tracking app",
+  "main": "script.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Yusuf Akyurek",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
