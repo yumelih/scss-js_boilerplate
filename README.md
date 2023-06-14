@@ -1,5 +1,5 @@
 # scss-js_boilerplate
-To quickly setup your scss code.
+For quickly setting up your boilerplate scss code.
 
 ## Setup
 *npm install* to install the package.
